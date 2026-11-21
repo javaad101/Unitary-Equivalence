@@ -1,3 +1,11 @@
+# Plain English
+
+We want to be able to say that a hot dog is a sandwich in some ways and that it is not a sandwich in others. We are forcing a machine to learn that two things can be equal for some purposes and non-equivalent for others. The ability to force equivalences and non-equivalences upon a machine is useful because it allows us to make a known representation of fact in language that is comprehensible to us as humans, and to force the machine to somehow internalize that fact, without necessarily having to express a view on how exactly it wishes to do so—it allows the machine to represent facts to itself in whatever manner is useful to the machine. The ability to do this allows us to convey statements in the nature of logic without having to make trillion-token models.
+
+*Note: The idea is presented in a manner that I believe to be representative of substantially all of the logic that I am trying to capture. I've omitted more involved discussions for things that are not presently relevant here for economy of expression and time. The balance of this document was generated to summarize what is intended to be conveyed hereby with greater detail without having to figure out how to do so myself. I would've written you a shorter letter, but I didn't have the time.*
+
+---
+
 # Unitary Contextual Equivalence & the Bell-State Ricochet Identity
 
 Zero-dependency numerical verification of a lossless representation-learning mechanism derived from post-selected quantum teleportation (P-CTC / Bell-state projection).
