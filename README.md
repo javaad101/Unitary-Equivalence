@@ -12,9 +12,9 @@ $$(A \otimes I)|\Phi^+\rangle = (I \otimes A^T)|\Phi^+\rangle$$
 
 applying $U_1$ to register 1 and $U_2^*$ to register 2 followed by Bell-state post-selection yields the normalized **Hilbert–Schmidt inner product**:
 
-$$\langle \Phi^+ | (U_1 \otimes U_2^*) | \Phi^+ \rangle = \frac{1}{d}\operatorname{Tr}(U_1 U_2^\dagger)$$
+$$\langle \Phi^+ | (U_1 \otimes U_2^*) | \Phi^+ \rangle = \frac{1}{d}\,\mathrm{Tr}(U_1 U_2^\dagger)$$
 
-which equals $1$ if and only if $U_1 = U_2$ (up to global phase). When equivalence is enforced only on a measured register while leaving ancilla/phase registers unmeasured ($\operatorname{Tr}_{-i}[\hat{O}_i \rho]$), the unitary operator rotates non-invariant structure into orthogonal subspaces rather than annihilating it—preserving full state resolution for context-dependent downstream observables.
+which equals $1$ if and only if $U_1 = U_2$ (up to global phase). When equivalence is enforced only on a measured register while leaving ancilla/phase registers unmeasured ($\mathrm{Tr}_{-i}[\hat{O}_i \rho]$), the unitary operator rotates non-invariant structure into orthogonal subspaces rather than annihilating it—preserving full state resolution for context-dependent downstream observables.
 
 ## Running Locally
 
